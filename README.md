@@ -1,1 +1,3 @@
-# courseworkMSSQL
+MSSQL - все работы с БД
+courseWork - моя курсовая 
+courseWork1-6 - заказы на курсовую, которые я делал
